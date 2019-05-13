@@ -2,7 +2,7 @@
 
 An example project that accompanies my tutorial on using Azure Functions NodeJS and Pusher Beams for iOS Notifications.
 
-https://pusher.com/tutorials/azure-function-nodejs-ios-notifications
+https://pusher.com/tutorials/azure-nodejs-ios-notifications
 
 ## Getting Started
 
